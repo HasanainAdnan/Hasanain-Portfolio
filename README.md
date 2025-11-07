@@ -14,4 +14,4 @@ Dark-mode portfolio with animated background, auto-loading gallery (`/img/work/w
 
 
 ## License
-Personal portfolio — all rights reserved on my images.
+Personal portfolio - all rights reserved on my images.
