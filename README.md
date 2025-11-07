@@ -4,7 +4,7 @@ Dark-mode portfolio with animated background, auto-loading gallery (`/img/work/w
 
 ## Tech
 - HTML/CSS/JS (no framework), Inter font
-- Responsive layout, a11y passes
+- Responsive layout
 - GitHub Pages deployment
 
 ## How gallery works
